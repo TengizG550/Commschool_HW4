@@ -1,0 +1,14 @@
+/home/tengo/HomeWork4/bin/Debug/net8.0/HomeWork4
+/home/tengo/HomeWork4/bin/Debug/net8.0/HomeWork4.deps.json
+/home/tengo/HomeWork4/bin/Debug/net8.0/HomeWork4.runtimeconfig.json
+/home/tengo/HomeWork4/bin/Debug/net8.0/HomeWork4.dll
+/home/tengo/HomeWork4/bin/Debug/net8.0/HomeWork4.pdb
+/home/tengo/HomeWork4/obj/Debug/net8.0/HomeWork4.GeneratedMSBuildEditorConfig.editorconfig
+/home/tengo/HomeWork4/obj/Debug/net8.0/HomeWork4.AssemblyInfoInputs.cache
+/home/tengo/HomeWork4/obj/Debug/net8.0/HomeWork4.AssemblyInfo.cs
+/home/tengo/HomeWork4/obj/Debug/net8.0/HomeWork4.csproj.CoreCompileInputs.cache
+/home/tengo/HomeWork4/obj/Debug/net8.0/HomeWork4.dll
+/home/tengo/HomeWork4/obj/Debug/net8.0/refint/HomeWork4.dll
+/home/tengo/HomeWork4/obj/Debug/net8.0/HomeWork4.pdb
+/home/tengo/HomeWork4/obj/Debug/net8.0/HomeWork4.genruntimeconfig.cache
+/home/tengo/HomeWork4/obj/Debug/net8.0/ref/HomeWork4.dll
