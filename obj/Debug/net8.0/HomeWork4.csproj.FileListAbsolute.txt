@@ -12,3 +12,4 @@
 /home/tengo/HomeWork4/obj/Debug/net8.0/HomeWork4.pdb
 /home/tengo/HomeWork4/obj/Debug/net8.0/HomeWork4.genruntimeconfig.cache
 /home/tengo/HomeWork4/obj/Debug/net8.0/ref/HomeWork4.dll
+/home/tengo/HomeWork4/obj/Debug/net8.0/HomeWork4.sourcelink.json
