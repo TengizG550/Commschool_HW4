@@ -28,3 +28,7 @@ x86/
 *.mdb
 *.tmp
 *.cache
+
+# Ignore build directories
+bin/
+obj/
